@@ -131,9 +131,25 @@ h2 {
   }
 }
 
-#cta{
+#cta {
   text-align: center;
   background-color: #ff4c68;
-  
+  padding: 7% 15%;
+}
 
+#cta h3 {
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.social-footer {
+  margin: 20px 10px;
+  color: #000;
 }
